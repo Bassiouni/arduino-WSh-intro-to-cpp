@@ -1,0 +1,21 @@
+# Example book.toml file with all output options.
+[book]
+title = "Introduction to C++"
+authors = ["John Doe", "Jane Doe"]
+description = "The example book covers examples."
+
+[output.html]
+# theme = "my-theme"
+default-theme = "Ayu"
+curly-quotes = true
+mathjax-support = true
+copy-fonts = true
+# no-section-label = false
+# git-repository-url = ""
+# git-repository-icon = "fa-github"
+# edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
+# site-url = "/example-book/"
+
+[output.html.playground]
+editable = true
+
