@@ -42,6 +42,7 @@ In the header file (`myfile.h`) put your necessary includes and signatures.
 
 ```cpp
 // myfile.h
+#pragma once // I'm assuming you are running C++17 at least
 
 inline int add(int, int, int);
 
@@ -104,3 +105,7 @@ $ ./main # this makes us run the code
 5.3
 5
 ```
+
+This is the fast way to do it.
+
+Please do your study at header include gurds, I'm not going to explain them here! <https://en.wikipedia.org/wiki/Include_guard>
