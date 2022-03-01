@@ -51,7 +51,7 @@ We can call these functions in `main`:
 ```cpp
 int main()
 {
-  std::cout << add(1, 2) << std::endl;
-  std::cout << get_next_char('a') << std::endl;
+  std::cout << add(1, 2) << std::endl; // 3
+  std::cout << get_next_char('a') << std::endl; // b
 }
 ```

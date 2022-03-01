@@ -4,3 +4,5 @@
 
 - [ ] Python is Easy
 - [ ] C++ is Hard
+
+![C++](./res/c++.png)
