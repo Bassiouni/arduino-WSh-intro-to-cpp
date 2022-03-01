@@ -11,6 +11,7 @@
 - [Functions](d1/functions.md)
 - [Header Files](d1/header-files.md)
 - [Math Operations](d1/math-operations.md)
+  - [Solution](d1/solution.md)
 - [Control Statements && Ligical Operators](d1/control-statements.md)
 - [Loops](d1/loops.md)
   - [For loop](d1/for-loop.md)
