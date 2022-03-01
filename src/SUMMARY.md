@@ -17,6 +17,7 @@
   - [While loop](d1/while-loop.md)
   - [Recursion](d1/recursion.md)
 - [Pointers && References](d1/pointers-and-references.md)
+- [Constants](d1/const.md)
 - [Arrays](d1/arrays.md)
 - [Bit-wise Operations](d1/bit-wise.md)
 
